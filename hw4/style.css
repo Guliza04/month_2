@@ -1,0 +1,29 @@
+
+.test{
+    display: flex;
+    justify-content: center;
+    margin: 20% 0 0;
+}
+.cont{
+    margin: 0 auto;
+    width: 600px;
+    border: 3px solid #4e4ee8;
+}
+.list{
+    width: 500px;
+    display: flex;
+    flex-direction: column;
+}
+.block{
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+
+
+
+
+
+
+
